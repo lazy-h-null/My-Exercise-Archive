@@ -14,10 +14,19 @@ and concatenation only. No parsers, no libraries — pure string primitives.
 
 | # | Challenge | Branch | Status |
 |---|-----------|--------|--------|
-| 1 | Update Page Metadata | `challenge/01-metadata` | ⏳ Pending |
+| 1 | Update Page Metadata | `challenge/01-metadata` | ✅ Done |
 | 2 | Update Stylesheet and Script Sources | `challenge/02-assets` | ⏳ Pending |
 | 3 | Inject Heading Tags | `challenge/03-headings` | ⏳ Pending |
 | 4 | Add Paragraph and Image Tags | `challenge/04-content` | ⏳ Pending |
 | 5 | Full Page Builder | `challenge/05-full-page` | ⏳ Pending |
 
 ## Outputs
+
+### Challenge 1 — Update Page Metadata
+
+**Concepts:** `.replace()`, f-strings, string concatenation
+**Solution file:** `challenge_01_metadata.py`
+**HTML output file:** `html_outputs/challenge_01_output.html`
+
+**Terminal output:**
+![Challenge 1 Terminal](screenshots/challenge_01_terminal.png)
