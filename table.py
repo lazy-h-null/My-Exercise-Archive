@@ -18,8 +18,8 @@ html_links= """
 html_title = "<h1 class='text-3xl font-bold text-center mb-4 text-primary'>Freshco Discount List</h1>"
 
 html_table_start = """
-    <div class="overflow-x-auto">
-        <table class="table table-zebra w-full shadow-md">
+    <div class="overflow-x-auto max-w-2xl mx-auto border rounded-lg shadow-sm mt-5">
+        <table class="table table-zebra table-xs min-w-[1000px] text-xs">
             <thead>
                 <tr class="bg-base-200">
                     <th>ID</th>
@@ -40,7 +40,7 @@ html_bottom = """
 
 test_html = html_title + html_table_start + html_bottom
 
-with open("template.html", "r") as f:
+with open("template.html", "r", encoding="utf-8") as f:
     template = f.read()
 
 test_template = template.replace("<title>Document</title>", "<title>Freshco Flyer</title>")
@@ -110,18 +110,20 @@ print("HTML file with all products created successfully.")
 total_products = len(data_freshco)
 
 html_count_info = f"""
-    <div class="flex justify-end mb-6 w-full">
-        <div class="stats shadow scale-50 origin-right border-base-200">
-            <div class="stat p-1 px-3 flex flex-row items-baseline">
-                <span class="stat-title">Total</span>
-                <span class="stat-value text-orange-500 text-2xl">{total_products}</span>
-                <span class="stat-desc">Updated just now</span>
+    <div class="max-w-2xl mx-auto flex justify-end mb-2">
+        <div style="min-width: 1000px;" class="flex justify-end pr-2">
+            <div class="stats shadow scale-50 origin-right rounded-lg border border-base-200 bg-white">
+                <div class="stat p-2 flex flex-row items-center gap-4">
+                    <span class="stat-title">Total</span>
+                    <span class="stat-value text-orange-500 text-2xl">{total_products}</span>
+                    <span class="stat-desc">Updated just now</span>
+                </div>
             </div>
         </div>
     </div>
 """
 
-final_html_with_count = html_title + html_table_start + all_html_rows + html_count_info + html_bottom
+final_html_with_count = html_title + html_count_info + html_table_start + all_html_rows + html_bottom
 
 with open("index.html", "w") as f:
     f.write(final_html_with_count)

@@ -22,8 +22,8 @@ The goal is to fetch product data (Name, Price, Image) and render it into a stru
 - [ ] 14. Share the website via GitHub Pages.
 
 ## 🔗 Project Links
-- **Repository:** [Insert your GitHub Repo URL here]
-- **Deployed Site:** [Insert your GitHub Pages URL here]
+- **Repository:** [https://github.com/lazy-h-null/python-html-table-challenge.git]
+- **Deployed Site:** [https://lazy-h-null.github.io/python-html-table-challenge/]
 
 ---
 *Continuing with the past Daisy UI exercise.*
