@@ -1,3 +1,5 @@
+[![Python Tests](https://github.com/y44k0v/pyhtonwestfeb18/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/y44k0v/pyhtonwestfeb18/actions/workflows/tests.yml)
+
 # pythoneastsep15
 Autograded exercises for ComIT Web Development with Python (Django)
 
