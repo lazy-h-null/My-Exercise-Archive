@@ -16,7 +16,13 @@ Expected Output: [0, 1, 1, 4, 4]
 
 def sortedSquaredArray(array):
     # Write your code here.
-    pass
+    squared_list = []
+
+    for num in array:
+        squared_list.append(num * num)
+
+    return sorted(squared_list)
+
 
 if __name__ == '__main__':
     # Test cases (you can add more here to test your solution)
