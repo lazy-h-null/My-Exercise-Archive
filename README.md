@@ -6,8 +6,9 @@ This is a timeline of my coding exercises and class assignments. Each folder sho
 | Folder | Project / Topic | Description | Source / Demo | Status
 | :--- | :--- | :--- | :---: | :---: |
 | **03-feb23** | Django Counter | Basic Django practice with a counter application. | [🔗](https://github.com/lazy-h-null/comIT-py4web26-1-git-django-counter) | ✅
-| **04-feb24** | Static Site | Simple static website practice. | [🌐](https://lazy-h-null.github.io/static-site/) | ✅
-| **04-feb24** | Space Explorer | Space-themed web exploration project. | [🌐](https://lazy-h-null.github.io/space-explorer/) | ✅
+| **04-feb25** | Static Site | Simple static website practice. | [🌐](https://lazy-h-null.github.io/static-site/) | ✅
+| **04-feb25** | Space Explorer | Space-themed web exploration project. | [🌐](https://lazy-h-null.github.io/space-explorer/) | ✅
+| **04-feb25** | Contact Form | Simple contact form practice with py4web. | [🔗](https://github.com/lazy-h-null/comIT-py4web-contact-form) | ✅ |
 | **05-feb26** | Beginner 05 | Python beginner challenges and basic logic. | [🔗](https://github.com/lazy-h-null/python-beginner-challenges) | ✅
 | **05-feb26** | HTML String 05 | Python-based HTML string manipulation. | [🔗](https://github.com/lazy-h-null/python-html-string-challenges) | ✅
 | **07-mar04** | comIT py4web 07 | Class 07 exercises for the comIT py4web course. | [🔗](https://github.com/lazy-h-null/comIT-py4web-class-07) | ✅
