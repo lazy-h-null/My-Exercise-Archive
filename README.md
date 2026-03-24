@@ -16,4 +16,5 @@ This is a timeline of my coding exercises and class assignments. Each folder sho
 | **09-mar09** | CLI Utils | Collection of Command Line Interface utilities. | [🔗](https://github.com/lazy-h-null/cli_utils) | ✅
 | **11-mar12** | Python EastSep15 | General Python practice and exercise sets. | [🔗](https://github.com/lazy-h-null/pythoneastsep15) | ✅
 | **12-mar16** | My Favorite Map | Interactive map exercise and web integration. | [🔗](https://github.com/lazy-h-null/my-favorite-map) | ✅
-| **13-mar18** | Cafe_OOP | Python OOP practice with interactive match/case logic. | [🔗](https://github.com/lazy-h-null/my-exercise-archive/tree/main/13-mar18) | ✅
+| **13-mar18** | Cafe_OOP | Python OOP practice with interactive match/case logic. | [🔗](https://github.com/lazy-h-null/my-exercise-archive/blob/main/13-mar18/cafe.py) | ✅
+| **14-mar19** | School_OOP | Advanced OOP exercise with complex class interactions. | [🔗](https://github.com/lazy-h-null/my-exercise-archive/blob/main/14-mar19/school_oop.py) | ✅
