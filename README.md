@@ -18,3 +18,4 @@ This is a timeline of my coding exercises and class assignments. Each folder sho
 | **12-mar16** | My Favorite Map | Interactive map exercise and web integration. | [🔗](https://github.com/lazy-h-null/my-favorite-map) | ✅
 | **13-mar18** | Cafe_OOP | Python OOP practice with interactive match/case logic. | [🔗](https://github.com/lazy-h-null/my-exercise-archive/blob/main/13-mar18/cafe.py) | ✅
 | **14-mar19** | School_OOP | Advanced OOP exercise with complex class interactions. | [🔗](https://github.com/lazy-h-null/my-exercise-archive/blob/main/14-mar19/school_oop.py) | ✅
+| **15-mar23** | Comprehension | Python list and dictionary comprehension exercises. | [🔗](https://github.com/lazy-h-null/my-exercise-archive/blob/main/15-mar23/comprehension_exercises%20(1).ipynb) | ✅
