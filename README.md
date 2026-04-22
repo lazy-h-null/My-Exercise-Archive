@@ -21,6 +21,6 @@ This is a timeline of my coding exercises and class assignments. Each folder sho
 | **15-mar23** | Comprehension | Python list and dictionary comprehension exercises. | [🔗](https://github.com/lazy-h-null/my-exercise-archive/blob/main/15-mar23/comprehension_exercises.ipynb) | ✅
 | **16-mar25** | Flow Control | Python flow control. | [🔗](https://github.com/lazy-h-null/my-exercise-archive/blob/main/16-mar25/1_flow_control_challenges.py) | ✅
 | **17-mar26** | Data Structures & OOP | Python Lists, Dictionaries, and Operator Overloading. | [🔗](https://github.com/lazy-h-null/my-exercise-archive/blob/main/17-mar26/2_list_challenges.py) | ✅
-| **18-mar30** |  |  | [🔗](https://github.com/lazy-h-null/my-exercise-archive/blob/main/18-mar30) | ✅
+| **18-mar30** | Car Dealership Manager | CLI-based inventory system using Python OOP and SQLite integration. | [🔗](https://github.com/lazy-h-null/my-exercise-archive/blob/main/18-mar30) | ✅
 | **19-apr06** |  |  | [🔗](https://github.com/lazy-h-null/my-exercise-archive/blob/main/19-apr06) | ✅
 | **20-apr13** |  |  | [🔗](https://github.com/lazy-h-null/my-exercise-archive/blob/main/20-apr13) | ✅
