@@ -6,7 +6,15 @@ def home(request):
     ctx = {
         'name': "Tony",
         'age': 25,
-        'gains': 2344.322211
+        'gains': 2344.322211,
+        'skills': ['Python', 'Django', 'Tailwind', 'SQLite', 'Docker', 'Git'],
+        'info': {
+            'Location': 'Seoul',
+            'Role': 'Developer',
+            'Status': 'Active',
+            'Project': 'Static Site',
+            'Engine': 'Django 5.0'
+        }
     }
     return render(request, 'static_pages_templates/home.html', ctx)
 
